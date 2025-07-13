@@ -36,6 +36,10 @@ Format for data contained in `metadata.txt` follows this structure:
 - `label`: 1 (real) or -1 (spam)  
 - `date`: review date
 
+## Download Dataset
+You may access the dataset from:
+- https://www.kaggle.com/datasets/theducktator/yelpzip-labeled-dataset
+
 ## Citation
 ### BibTeX
 ```
